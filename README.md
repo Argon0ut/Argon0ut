@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Yersultan!
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
 👨🏻‍🎓 Studying Computer Science at Nazarbayev University, Kazakhstan</br>
-🎨 Posting my progress in tech and productivity on [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yersultanyers)</br>
-🐍 Code on FastAPI and Django</br>
-💭 Currently learning about data Web-Development</br>
+🐍 Mainly work with FastAPI and Django</br>
+🚗 Car enthusiast 
 
 # ![Yersultan's github stats](https://github-readme-stats.vercel.app/api?username=Argon0ut&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)</br>
 
