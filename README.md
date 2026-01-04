@@ -4,7 +4,6 @@
 🐍 Mainly work with FastAPI and Django</br>
 🚗 Car enthusiast 
 
-# ![Yersultan's github stats](https://github-readme-stats.vercel.app/api?username=Argon0ut&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)</br>
 
 # 💻 Tech Stack
 
