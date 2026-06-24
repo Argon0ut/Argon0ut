@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Yersultan!
 
 👨🏻‍🎓 Studying Computer Science at Nazarbayev University, Kazakhstan</br>
-🐍 Mainly work with FastAPI and Django</br>
 🚗 Car enthusiast 
 
 
