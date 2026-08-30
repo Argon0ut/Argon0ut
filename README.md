@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Yersultan!
 
+💻 Software Engineer at Zenith Lab
 👨🏻‍🎓 Studying Computer Science at Nazarbayev University, Kazakhstan</br>
 🚗 Car enthusiast 
 
